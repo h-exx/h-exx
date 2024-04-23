@@ -1,4 +1,5 @@
 ## Hey! I'm Jacques 👋
+*19 - South West, UK - Student*
 ### Languages I Know
 - Node.js
 - SQL
