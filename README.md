@@ -43,6 +43,14 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/tailwind-light.svg">
   <img width="30px" alt="TailwindCSS" src="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/tailwind-dark.svg">
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/nginx-light.svg">
+  <img width="30px" alt="Nginx" src="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/nginx-dark.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/proxmox-light.svg">
+  <img width="30px" alt="Proxmox" src="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/proxmox-dark.svg">
+</picture>
 
 ### Tools I'm learning:
 <picture>
