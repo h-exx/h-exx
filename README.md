@@ -51,6 +51,14 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/proxmox-light.svg">
   <img width="30px" alt="Proxmox" src="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/proxmox-dark.svg">
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/digitalocean-light.svg">
+  <img width="30px" alt="DigitalOcean" src="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/digitalocean-dark.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/vultr-light.svg">
+  <img width="30px" alt="Vultr" src="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/vultr-dark.svg">
+</picture>
 
 ### Tools I'm learning:
 <picture>
