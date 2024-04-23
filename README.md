@@ -1,15 +1,1 @@
-## Hey! I'm Jacques 👋
-*19 - South West, UK - Student*
-### Languages I Know
-- Node.js
-- SQL
-- Python
-- HTML
-- CSS
-### Tools I know
-- Docker
-- Tailwind
-### Tools I'm learning:
-- Nuxt.js
-- Typescript
-- Rust
+![this is my thing](https://github.com/h-exx/h-exx/assets/17961641/18bfea48-5f8f-433d-ab11-6ca2f94fc05b)
