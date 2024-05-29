@@ -73,17 +73,13 @@
 </picture>
 
 ### Tools I'm learning:
-<picture title="Nuxt">
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/nuxt-light.svg">
-  <img width="30px" alt="Nuxt" src="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/nuxt-dark.svg">
+<picture title="Java">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/java-light.svg">
+  <img width="30px" alt="Java" src="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/java-dark.svg">
 </picture>
-<picture title="Typescript">
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/typescript-light.svg">
-  <img width="30px" alt="Typescript" src="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/typescript-dark.svg">
-</picture>
-<picture title="GoLang">
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/go-light.svg">
-  <img width="30px" alt="GoLang" src="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/go-dark.svg">
+<picture title="Kotlin">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/kotlin-light.svg">
+  <img width="30px" alt="Kotlin" src="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/kotlin-dark.svg">
 </picture>
 <picture title="Rust">
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/rust-light.svg">
