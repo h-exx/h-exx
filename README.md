@@ -71,6 +71,10 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/vultr-light.svg">
   <img width="30px" alt="Vultr" src="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/vultr-dark.svg">
 </picture>
+<picture title="JetBrains">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/jetbrains-light.svg">
+  <img width="30px" alt="JetBrains" src="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/jetbrains-dark.svg">
+</picture>
 
 ### Tools I'm learning:
 <picture title="Java">
