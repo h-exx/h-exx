@@ -1,5 +1,5 @@
 ## Hey! I'm Jacques 👋
-*19 - South West, UK - Student*
+`19 - South West, UK - Student`
 ### Languages I Know
 <picture title="Node.js">
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/nodejs-light.svg">
@@ -71,8 +71,12 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/vultr-light.svg">
   <img width="30px" alt="Vultr" src="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/vultr-dark.svg">
 </picture>
+<picture title="JetBrains">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/jetbrains-light.svg">
+  <img width="30px" alt="JetBrains" src="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/jetbrains-dark.svg">
+</picture>
 
-### Tools I'm learning:
+### Languages I'm learning:
 <picture title="Java">
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/java-light.svg">
   <img width="30px" alt="Java" src="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/java-dark.svg">
