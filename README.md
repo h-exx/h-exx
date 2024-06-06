@@ -63,6 +63,10 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/proxmox-light.svg">
   <img width="30px" alt="Proxmox" src="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/proxmox-dark.svg">
 </picture>
+<picture title="Microsoft SQL Server">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/microsoftsqlserver-light.svg">
+  <img width="30px" alt="Microsoft SQL Server" src="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/microsoftsqlserver-dark.svg">
+</picture>
 <picture title="DigitalOcean">
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/digitalocean-light.svg">
   <img width="30px" alt="DigitalOcean" src="https://cdn.jsdelivr.net/gh/h-exx/h-exx@main/devicons/digitalocean-dark.svg">
